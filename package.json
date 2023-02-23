@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://RafaelSFDC.github.io/HooBank.git",
+  "homepage": "https://RafaelSFDC.github.io/BankWebsite.git",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
